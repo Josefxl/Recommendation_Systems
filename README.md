@@ -1,2 +1,6 @@
 # Movie_Recommendation_Systems
-Two standalone projects demonstrating collaborative and content-based approaches to movie recommendation systems.
+This repository showcases two distinct approaches to building movie recommendation systems:
+
+Collaborative Filtering: Leveraging user-item interactions to suggest movies based on collective preferences.
+Content-Based Filtering: Utilizing movie attributes to recommend titles tailored to individual tastes.
+Both methods are implemented in separate notebooks, providing clear and concise workflows for each approach.
